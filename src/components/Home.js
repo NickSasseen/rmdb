@@ -1,10 +1,7 @@
 import React from 'react';
 
-// api
-import API from '../API';
-
 // config
-import { POSTER_SIZE, BACKDROP_SIZE, IMG_BASE_URL, IMAGE_BASE_URL } from '../config';
+import { POSTER_SIZE, BACKDROP_SIZE, IMAGE_BASE_URL } from '../config';
 
 // components
 import HeroImage from './HeroImage';
